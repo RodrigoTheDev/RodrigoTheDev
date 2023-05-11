@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RodrigoTheDev
-- 👀 I’m interested in coding, games and music
-- 🌱 I’m currently learning Python, c++ and c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding and music
+- 💻 I have experience in python, c++, html, css and JS
+- 🌱 I’m currently learning flutter and rust 
+- 💞️ I’m looking to collaborate on bigger projects
 
 <!---
 RodrigoTheDev/RodrigoTheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
