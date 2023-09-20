@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RodrigoTheDev
 - 👀 I’m interested in coding and music
 - 💻 I have experience in python, c++, html, css and JS
-- 🌱 I’m currently learning flutter and rust 
+- 🌱 I’m currently learning Vue JS and Laravel
 - 💞️ I’m looking to collaborate on bigger projects
 
 <!---
